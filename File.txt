@@ -1,0 +1,13 @@
+admin_page.php
+config.php
+delete_page.php
+login_form.php
+logout.php
+record.php
+register_form.php
+status.php
+style.css
+update_page.php
+user_page.php
+
+
